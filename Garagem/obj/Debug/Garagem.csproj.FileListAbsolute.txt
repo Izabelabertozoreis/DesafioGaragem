@@ -1,0 +1,11 @@
+D:\Users\.net\AcademiaDnotNet\Garagem\bin\Debug\Garagem.exe.config
+D:\Users\.net\AcademiaDnotNet\Garagem\bin\Debug\Garagem.exe
+D:\Users\.net\AcademiaDnotNet\Garagem\bin\Debug\Garagem.pdb
+D:\Users\.net\AcademiaDnotNet\Garagem\obj\Debug\Garagem.csproj.AssemblyReference.cache
+D:\Users\.net\AcademiaDnotNet\Garagem\obj\Debug\Garagem.csproj.SuggestedBindingRedirects.cache
+D:\Users\.net\AcademiaDnotNet\Garagem\obj\Debug\Garagem.Form1.resources
+D:\Users\.net\AcademiaDnotNet\Garagem\obj\Debug\Garagem.Properties.Resources.resources
+D:\Users\.net\AcademiaDnotNet\Garagem\obj\Debug\Garagem.csproj.GenerateResource.cache
+D:\Users\.net\AcademiaDnotNet\Garagem\obj\Debug\Garagem.csproj.CoreCompileInputs.cache
+D:\Users\.net\AcademiaDnotNet\Garagem\obj\Debug\Garagem.exe
+D:\Users\.net\AcademiaDnotNet\Garagem\obj\Debug\Garagem.pdb
